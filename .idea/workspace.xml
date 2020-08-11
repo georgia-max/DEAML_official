@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4c303f17-1723-41b0-9389-99668629e1cd" name="Default Changelist" comment="" />
+    <list default="true" id="4c303f17-1723-41b0-9389-99668629e1cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.README_images/Picture1.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,6 +31,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.README_images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -64,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597114932734</updated>
-      <workItem from="1597114933842" duration="391000" />
+      <workItem from="1597114933842" duration="800000" />
     </task>
     <task id="LOCAL-00001" summary="add illustration">
       <created>1597115222711</created>
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597115222711</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add illustration">
+      <created>1597115408402</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597115408402</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,10 +94,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add illustration" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2458" y="127" key="CommitChangelistDialog2" timestamp="1597115222618">
+    <state x="2289" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597115712564">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2458" y="127" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115222618" />
+    <state x="2289" y="202" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115712564" />
+    <state x="2458" y="127" key="CommitChangelistDialog2" timestamp="1597115408267">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2458" y="127" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115408267" />
     <state x="2714" y="456" key="Github.ShareDialog" timestamp="1597115080616">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -100,10 +114,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2359" y="191" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115141633" />
-    <state x="2450" y="292" key="Vcs.Push.Dialog.v2" timestamp="1597115241180">
+    <state x="2450" y="292" key="Vcs.Push.Dialog.v2" timestamp="1597115411983">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2450" y="292" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115241180" />
+    <state x="2450" y="292" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115411983" />
     <state x="2656" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597115115010">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
