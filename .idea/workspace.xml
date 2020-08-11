@@ -19,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -63,14 +64,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597114932734</updated>
-      <workItem from="1597114933842" duration="208000" />
+      <workItem from="1597114933842" duration="391000" />
     </task>
+    <task id="LOCAL-00001" summary="add illustration">
+      <created>1597115222711</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597115222711</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add illustration" />
+    <option name="LAST_COMMIT_MESSAGE" value="add illustration" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2458" y="127" key="CommitChangelistDialog2" timestamp="1597115222618">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2458" y="127" key="CommitChangelistDialog2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115222618" />
     <state x="2714" y="456" key="Github.ShareDialog" timestamp="1597115080616">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
@@ -83,6 +100,10 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2359" y="191" key="SettingsEditor/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115141633" />
+    <state x="2450" y="292" key="Vcs.Push.Dialog.v2" timestamp="1597115241180">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2450" y="292" key="Vcs.Push.Dialog.v2/1920.0.1920.1080/0.0.1920.1080@1920.0.1920.1080" timestamp="1597115241180" />
     <state x="2656" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1597115115010">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
